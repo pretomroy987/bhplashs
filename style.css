@@ -1,0 +1,84 @@
+body{
+  background-color: #F0F5FE;
+  font-family: "Hind Siliguri", sans-serif;
+  align-content: center;
+}
+
+h1{
+  color: black;
+  font-size: 18px;
+  text-align: left;
+  font-style: blod;
+  font-family: "Hind Siliguri", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+p{
+  color: black;
+  font-size: 14px;
+  text-align: left;
+}
+
+h3{
+    color: black;
+    font-size: 20px;
+    text-align: left;
+
+}
+
+.product{
+  background-color: white;
+  width: 326px;
+  box-shadow: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  
+}
+button{
+  width:292px ; 
+  height:54px ; 
+  background-color: #2758FE;
+  color: white;
+  font-size: 20px;
+  border-radius: 5px;
+  border-color: white;
+
+}
+
+a{
+  color: white;  
+  text-decoration-line: none;
+}
+.pimage{
+  width: 311px;
+  height: auto;
+  border-radius: 5px;
+}
+
+.float{
+  position:fixed;
+  width:60px;
+  height:60px;
+  bottom:40px;
+  right:40px;
+  background-color:#2758FE;
+  color:#FFF;
+  border-radius:50px;
+  text-align:center;
+}
+
+.material-symbols-outlined{
+  margin-top:20px;
+}
+.doctors{
+  background-color: white;
+  width: 326px;
+  box-shadow: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
